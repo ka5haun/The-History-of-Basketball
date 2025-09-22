@@ -6,6 +6,9 @@ header {
   font-size: 50px;
   text-align: center;
 }
+.gray {
+  color: gray;
+}
   img {
     align: center;
 }
@@ -13,24 +16,38 @@ header {
   font-size: 30px;
   text-align: center;
 }
+.blue {
+  color: blue;
+}
   h2 {
   font-size: 30px;
   text-align: center;
+}
+.red {
+  color: red;
+}
+.gold {
+  color: goldenrod
+}
+  ol {
+  font-size: 30px;
+  text-align: left;
 }
   h3 {
   font-size: 30px;
   text-align: center;
 }
+.green {
+  color: green;
+}
 body {
-  background-color: hsl(27, 100%, 75%);
+  background-color: lightcyan;
 }
 
 * {
   font-family: sans-serif;
 }
-   {
-  background-color: #f2f4f7;
-  }
+
   .flex-container {
   display: flex;
 }
