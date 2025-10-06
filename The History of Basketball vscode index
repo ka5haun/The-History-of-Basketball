@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <header>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The History of Basketball</title> 
-    <!-- Link to the stylesheet called style.css -->
-    <link rel="stylesheet" href="./css/style.css" />
-  </header> 
+    <link rel="stylesheet" href="css/style.css">
+    
 </head>
   <body> 
     <h1 class = "gray">The History of Basketball</h1>
@@ -43,4 +43,5 @@
 </nav>
 
   <a href="page2.html">Read more on Page 2</a>
+
 
